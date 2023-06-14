@@ -1,0 +1,3 @@
+C:\Users\yenes\source\repos\Project_ERD\Debug\Project_ERD.vcxproj.CopyComplete
+C:\Users\yenes\source\repos\Project_ERD\Debug\Project_ERD.exe
+C:\Users\yenes\source\repos\Project_ERD\Debug\freeglutd.dll
